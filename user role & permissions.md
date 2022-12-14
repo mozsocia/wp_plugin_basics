@@ -20,5 +20,7 @@ https://usersinsights.com/get_user-functions/
 
 // Get the current logged-in user's data as an object
     $user = wp_get_current_user();
+    
+    $author_obj = get_user_by('id', 1);
 ```
 
