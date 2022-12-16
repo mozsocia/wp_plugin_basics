@@ -1,4 +1,5 @@
-moz-ajax-submission-test.php
+
+list-some.php
 ```php
 <p>This is form submission Practice</p>
 <form id="myForm" method="POST">
@@ -48,9 +49,10 @@ jQuery(document).ready(function($) {
 </script>
 
 
-
 ```
 
+
+moz-ajax-submission-test.php
 ```php
 <?php
 /*
