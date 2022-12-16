@@ -1,6 +1,8 @@
+### for simpilicity use two php file 
+<br>
 
 list-some.php
-```php
+```html
 <p>This is form submission Practice</p>
 <form id="myForm" method="POST">
   <input type="text" name="name" placeholder="Enter your name">
@@ -10,8 +12,8 @@ list-some.php
 
   <input type="submit" value="Submit">
 </form>
-
-
+```
+```js
 <script type="text/javascript">
 
 jQuery(document).ready(function($) {
@@ -51,7 +53,7 @@ jQuery(document).ready(function($) {
 
 ```
 
-
+<br>
 moz-ajax-submission-test.php
 ```php
 <?php
