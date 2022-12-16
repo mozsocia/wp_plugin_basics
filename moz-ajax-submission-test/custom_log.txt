@@ -1,0 +1,195 @@
+2022-12-16 04:45:06 :: Array
+(
+    [nonce] => 6e5722c93f
+    [action] => my_ajax_form_action
+    [data] => name=sdfsdf&email=sdfsdf%40fadsc.com
+)
+
+
+2022-12-16 04:45:29 :: Array
+(
+    [nonce] => 6e5722c93f
+    [action] => my_ajax_form_action
+    [data] => name=sdfsdf&email=sdfsdf%40fadsc.com
+)
+
+
+2022-12-16 04:47:31 :: Array
+(
+    [0] => Array
+        (
+            [nonce] => 6e5722c93f
+            [action] => my_ajax_form_action
+            [data] => name=sdfsdf&email=sdfsdf%40fadsc.com
+        )
+
+    [1] => n
+)
+
+
+2022-12-16 04:54:51 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [nonce] => 6e5722c93f
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 04:55:43 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [nonce] => 6e5722c93f
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 04:56:18 :: Array
+(
+    [0] => sdfsdf
+)
+
+
+2022-12-16 05:30:27 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [nonce] => 6e5722c93f
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 05:33:42 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [nonce] => ldkfjdk
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 05:36:09 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [nonce] => 6e5722c93f
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 11:37:48 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [nonce] => 6e5722c93f
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 11:39:33 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [nonce] => 6e5722c93f
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 11:52:15 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [nonce] => 6e5722c93f
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 11:56:42 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [_moz_nonce] => 22349a2589
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 11:57:33 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [_moz_nonce] => 22349a2589
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 11:57:33 :: sdfsdf
+
+2022-12-16 12:03:36 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [_moz_nonce] => 22349a2589
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
+2022-12-16 12:03:36 :: sdfsdf
+
+2022-12-16 12:05:25 :: Array
+(
+    [0] => Array
+        (
+            [name] => sdfsdf
+            [email] => sdfsdf@fadsc.com
+            [_moz_nonce] => 22349a2589
+            [action] => my_ajax_form_action
+        )
+
+)
+
+
