@@ -52,8 +52,9 @@ jQuery(document).ready(function($) {
 
 
 ```
-
 <br>
+
+
 moz-ajax-submission-test.php
 ```php
 <?php
@@ -118,7 +119,7 @@ function my_ajax_form_handler()
     //     return;
     // }
 
-    // Verify the nonce
+    // Verify the nonce with check_ajax_referer is better way it send better error message
     check_ajax_referer('moz_nonce_secret', '_moz_nonce');
 
     moz_debug_fn([$_POST]);
