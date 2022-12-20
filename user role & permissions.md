@@ -9,6 +9,8 @@ https://wpmudev.com/blog/wordpress-roles-capabilities/ <br>
 https://usersinsights.com/get_user-functions/
 
 
+https://rudrastyh.com/wordpress/get-user-id.html
+
 ### common way of getting user data
 ```php
     global $user_ID;
