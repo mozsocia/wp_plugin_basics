@@ -49,7 +49,7 @@ if (!function_exists('fiasal_plugin_log')) {
         // Write the log file.
         $file = $upload_dir . '/' . $file . '.log';
         $file = fopen($file, $mode);
-        $bytes = fwrite($file, current_time('mysql') . "::" . print_r($entry, true) . "\n\n");
+        $bytes = fwrite($file, current_time('mysql') . "::" . print_r($entry, true) . PHP_EOL . PHP_EOL);
         fclose($file);
         return $bytes;
     }
@@ -67,7 +67,7 @@ if (!function_exists('moz_plugin_log')) {
         // Write the log file.
         $file = $upload_dir . '/' . $file . '.log';
         $file = fopen($file, $mode);
-        $bytes = fwrite($file, current_time('mysql') . "::" . print_r($entry, true) . "\n\n");
+        $bytes = fwrite($file, current_time('mysql') . "::" . print_r($entry, true) . PHP_EOL . PHP_EOL);
         fclose($file);
         return $bytes;
     }
@@ -90,7 +90,7 @@ if (!function_exists('moz_debug_fn')) {
         // $file = get_stylesheet_directory() .'/coutom_log.txt';
         // to this plugin dir
         $file = plugin_dir_path(__FILE__) . '/custom_log.txt';
-        file_put_contents($file, current_time('mysql') . " :: " . print_r($data, true) . "\n\n", FILE_APPEND);
+        file_put_contents($file, current_time('mysql') . " :: " . print_r($data, true) . PHP_EOL . PHP_EOL, FILE_APPEND);
     };
 }
 ;
