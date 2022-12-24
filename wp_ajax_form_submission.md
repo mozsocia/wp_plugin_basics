@@ -128,5 +128,6 @@ function my_ajax_form_handler()
 
     // Return a response
     wp_send_json(['msg' => 'Form submitted successfully!']);
+    die();
 }
 ```
