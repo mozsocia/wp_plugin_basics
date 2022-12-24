@@ -31,7 +31,7 @@ jQuery(document).ready(function($) {
     // console.log(data);
 
     $.ajax({
-      url:'<?php echo admin_url('admin-ajax.php') ?>',
+      url:'<?php echo admin_url('admin-ajax.php') ?>', //'http://test_one.test/wp-admin/admin-ajax.php'
       type: 'POST',
       data: data,
       success: function(response) {
