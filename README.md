@@ -1,18 +1,3 @@
-# wp_plugin_basics
+https://developers.elementor.com/docs/widgets/simple-example/
 
-### empty() functin 0 and "" k empty mone kore
-
-
- ```php
- 
-     $var1 = 0;
-     
-     echo empty($var1);  // true
-     
-     
-     $var1 = "";
-     
-     echo empty($var1);  // true
-     
- ```
-     
+https://youtu.be/Ko9i153o_iU
